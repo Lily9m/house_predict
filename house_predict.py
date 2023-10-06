@@ -3,7 +3,7 @@ from sklearn import linear_model
 import pickle
 import joblib
 
-# Loading the data
+# Loading 
 train_df = pd.read_csv('train.csv')
 
 # Creating the model object
